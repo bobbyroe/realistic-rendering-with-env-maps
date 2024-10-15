@@ -15,6 +15,6 @@ A simple Three.js app that showcases a teapot model rendered with physically bas
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/bobbyroe/realistic-rendering-with-env-maps.git
 
-Watch the tutorial on [YouTube](https://youtu.be/teKjrG4TqrI)
+Watch the tutorial on [YouTube]([https://youtu.be/teKjrG4TqrI](https://youtu.be/JGpfwvX0iCY))
